@@ -1,0 +1,1 @@
+An implementation of backpropagation in recurrent neural networks, written in MATLAB from scratch.
